@@ -1,7 +1,4 @@
 # Hello World Tour 🌍
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Hello World Tour](https://img.shields.io/badge/Hello%20World-Tour-blueviolet?style=flat-square)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
@@ -92,16 +89,3 @@ This project is licensed under the [MIT License](LICENSE).
 Join the **Hello World Tour** and be part of something extraordinary. Whether you’re learning a new skill or sharing your expertise, we’re excited to collaborate with you.
 
 **[Start Your Journey Today](https://github.com/Cod-e-Codes/HelloWorldTour)!**
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
