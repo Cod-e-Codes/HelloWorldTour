@@ -72,12 +72,22 @@ Let’s make this project better together!
 
 A huge thanks to all contributors who help make the **Hello World Tour** a success! Here are the amazing collaborators:
 
-- [Cod-e-Codes](https://github.com/Cod-e-Codes)
-- [Goinwrong](https://github.com/Goinwrong)
-
-You can also view the full list of contributors [here](https://github.com/Cod-e-Codes/HelloWorldTour/graphs/contributors).
-
-[![Contributors](https://contrib.rocks/image?repo=Cod-e-Codes/HelloWorldTour)](https://github.com/Cod-e-Codes/HelloWorldTour/graphs/contributors)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Cod-e-Codes">
+        <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="Cod-e-Codes"/><br />
+        <sub><b>Cod-e-Codes</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Goinwrong">
+        <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="100px;" alt="Goinwrong"/><br />
+        <sub><b>Goinwrong</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
