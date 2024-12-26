@@ -72,7 +72,7 @@ Let’s make this project better together!
 
 A huge thanks to all contributors who help make the **Hello World Tour** a success! You can view the full list of contributors [here](https://github.com/Cod-e-Codes/HelloWorldTour/graphs/contributors).
 
-[![Contributors](https://contrib.rocks/image?repo=Cod-e-Codes/HelloWorldTour)](https://github.com/Cod-e-Codes/HelloWorldTour/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Cod-e-Codes/HelloWorldTour&cache-buster=1)](https://github.com/Cod-e-Codes/HelloWorldTour/graphs/contributors)
 
 ---
 
