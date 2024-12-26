@@ -1,0 +1,39 @@
+{
+  "projectName": "HelloWorldTour",
+  "projectOwner": "Cod-e-Codes",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 5,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/github/all-contributors/<%= projectOwner %>/<%= projectName %>?color=blueviolet&style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"<%= contributor.name %>\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n</table>\n\n",
+  "types": {
+    "code": {
+      "symbol": "💻",
+      "description": "Code contributions."
+    },
+    "bug": {
+      "symbol": "🐛",
+      "description": "Bug reports."
+    },
+    "doc": {
+      "symbol": "📖",
+      "description": "Documentation."
+    },
+    "design": {
+      "symbol": "🎨",
+      "description": "Design contributions."
+    },
+    "custom": {
+      "symbol": "🌟",
+      "description": "A custom contribution type."
+    }
+  },
+  "linkToUsage": true,
+  "skipCi": true,
+  "contributors": []
+}
